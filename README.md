@@ -6,8 +6,11 @@ This project predicts the emotion of tweets by analyzing their textual content. 
 
 # Features
 Data Collection: Gather a dataset of tweets labeled with corresponding emotions.
+
 Data Preprocessing: Clean, tokenize, and vectorize the tweet text for analysis.
+
 Modeling: Build machine learning models to classify tweets into emotion categories.
+
 Evaluation: Assess model performance using metrics like accuracy, precision, and recall.
 
 # Dataset
